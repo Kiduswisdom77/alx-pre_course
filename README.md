@@ -1,3 +1,2 @@
 # alx-pre_course
-My first Commit
-Updated
+My first Commim updated to second commit 
